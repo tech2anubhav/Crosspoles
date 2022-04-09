@@ -1,0 +1,42 @@
+th {
+  font-size: 18px;
+  height: 30px;
+}
+
+td {
+  padding: 5px;
+}
+
+table,
+td,
+th {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+img {
+  height: 24px;
+  width: 24px;
+}
+
+button {
+  margin: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+input {
+  border: 0;
+  outline: none;
+  font-size: 16px;
+}
+
+.input-small {
+  max-width: 30px !important;
+}
+
+table {
+  width: 100%;
+}
